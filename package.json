@@ -1,6 +1,6 @@
 {
   "name": "anyshare",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "AnyShare Downloader",
   "main": "index.js",
   "scripts": {
